@@ -4,19 +4,19 @@
 
 # USING COMMAND
 
-apt update
-apt upgrade
-pkg update
-pkg upgrade
-pkg install git
-pkg install rich
-pkg install figlet
-pkg install python
-git clone https://github.com/BD-GRAY/TARGET
-cd TARGET
-python V3.py
+$ apt update
+$ apt upgrade
+$ pkg update
+$ pkg upgrade
+$ pkg install git
+$ pkg install rich
+$ pkg install figlet
+$ pkg install python
+$ git clone https://github.com/BD-GRAY/TARGET
+$ cd TARGET
+$ python V3.py
 
 
 
-USERNAME : SHAWPON
-PASSWORD : SP-BD
+$ USERNAME : SHAWPON
+& PASSWORD : SP-BD
